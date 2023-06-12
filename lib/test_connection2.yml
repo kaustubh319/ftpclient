@@ -1,0 +1,5 @@
+host: ftp.example.com
+port: 21
+username: your_username
+password: your_password
+account: your_account (optional)
